@@ -21,7 +21,7 @@ If you want to download the folder and run the APP, please use the download func
  Please make sure that you use the right path to run the code above.
  
 ## Authors
-* **He Feng** - *All front end parts besides testing page, camera page, historical record, and account page. Data transmission among the pages in front end.*
+* **He Feng** - *All front end parts besides these four pages: 'testing page, camera page, historical record, and account page'. Data transmission among the pages in front end. User Participants Communication*
 * **Jiali Zhang** - *Whole Back-end development, Communication between front end and back end, Camera page and historical records page in front end*
 * **Xuyu Chen** - *Testing page, Account page, Camera page, Historical Records*
 * **Vivian Wang** - *Market research, English-Chinese Translation, User Participants Communication*
