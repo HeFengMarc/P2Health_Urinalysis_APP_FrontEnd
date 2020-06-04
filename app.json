@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "P2HEALTH ",
+    "slug": "P2Health_Expo",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/p2health.png",
+    "androidStatusBar": {
+      "backgroundColor": "#82E0AA"
+    },
+    "splash": {
+      "image": "./assets/BootScreen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.Urinalysisfinal.P2Healthfinal",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.Urinalysisfinal.P2Healthfinal",
+      "versionCode": 1
+    },
+    "description": "English Version v2.0",
+    "sdkVersion": "37.0.0"
+  }
+}
