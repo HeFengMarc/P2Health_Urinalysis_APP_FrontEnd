@@ -21,7 +21,7 @@ If you want to download the folder and run the APP, please use the download func
  
 Thanks for me teammates to work on this project with me:
 
-        Thanks for Xuyu Chen to build the Camera page, account page, and historical record page.
+        Thanks for Xuyu Chen to build Adobe XD, the Camera page, account page, and historical record page.
         
         Thanks for Jiali Zhang to build the whole backend side, connect the front end with the back end, and transfer and store data between front end and back end.
         
