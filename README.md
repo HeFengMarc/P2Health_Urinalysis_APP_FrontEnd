@@ -21,7 +21,7 @@ If you want to download the folder and run the APP, please use the download func
  Please make sure that you use the right path to run the code above.
  
 ## Authors
+* **Jiali Zhang** - *Whole Back-end development, Communication between front end and back end*
 * **He Feng** - *All front end parts besides testing page, camera page, and account page*
 * **Xuyu Chen** - *Testing page, Account page, Camera page*
-* **Jiali Zhang** - *Whole Back-end development, Communication between front end and back end*
 * **Vivian Wang** - *Market research, English-Chinese Translation, User Participants Communication*
