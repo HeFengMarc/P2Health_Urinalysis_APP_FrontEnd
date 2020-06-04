@@ -12,3 +12,9 @@ https://drive.google.com/file/d/1mbh9y6bfYoF3nWXt--pvkT9jdlId6Kpq/view?usp=shari
 If you have any questions about the APP, please contact: fenghe1996@qq.com
 
 If you cannot login or signup, please use the guest login first.
+
+If you want to download the folder and run the APP, please use the download function in Github to download the zip file. Once you download the folder, please delete the whole "node_modules" folder, and then run the code in terminal: 
+
+        npm install -g expo-cli
+       
+ Please make sure that you use the right path to run the code above.
