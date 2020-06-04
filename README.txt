@@ -18,3 +18,11 @@ If you want to download the folder and run the APP, please use the download func
         npm install -g expo-cli
        
  Please make sure that you use the right path to run the code above.
+ 
+Thanks for me teammates to work on this project with me:
+
+        Thanks for Xuyu Chen to build the Camera page, account page, and historical record page.
+        
+        Thanks for Jiali Zhang to build the whole backend side, connect the front end with the back end, and transfer and store data between front end and back end.
+        
+        Thanks for Vivian Wang to create the demo video, searching for the medical information, doing research about diabetes, and finding participants in user research.
