@@ -1,6 +1,9 @@
 # P2Health Urinalysis App
 Our team is making an at home urinalysis APP on the smartphones for diabetes or people who have risks to become diabetes. The APP can fits for three different types of urine strips, and the user can check the historical record onece they create an account. 
 
+## Acknowledgement
+We would like to express our very great appreciation to Dr. Lee Weng for his experience and suggestions during the project development. As the mentor of our project, he helps us narrow down the research topic and analyzes our product's possible user needs. He also gives us suggestions about the current constraints and the problem we face so far by using his experience. We appreciate his time and suggestion for our project.
+
 ## Final Demo Video
 https://drive.google.com/file/d/1AovxUjgF0gi4brNiU4kwmbXLWf8Fe8Iz/view?usp=sharing
 
